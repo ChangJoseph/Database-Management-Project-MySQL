@@ -1,7 +1,7 @@
 #  Database Management Project MySQL
 A pedagogical project to further reinforce SQL querying concepts
 
-Specifications are located in "HA3 DB_Project_Description_CS550.pdf"
+Specifications are located in project description pdf file in the main directory
 Main SQL query file is located in "solution_sql/queries.sql"
 
 # Contributor
